@@ -24,3 +24,14 @@ Break a raw story idea into its emotional engine, core conflict, genre promise, 
 Analyze this story idea for serialized AI drama. Identify the hook, emotional engine, central conflict, strongest audience promise, and what must be improved before production.
 
 Raw Story
+Story DNA
+
+Genre:
+Theme:
+Target Audience:
+Conflict:
+Stakes:
+Setting:
+Tone:
+Moral:
+Suspense Level:
