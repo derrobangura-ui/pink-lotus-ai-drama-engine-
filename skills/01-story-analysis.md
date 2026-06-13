@@ -35,3 +35,6 @@ Setting:
 Tone:
 Moral:
 Suspense Level:
+# Story Analysis Skill
+
+Purpose: Extract the core DNA from any story before turning it into dialogue.
